@@ -265,7 +265,7 @@ header nav .icon{
 .grid_back p{
     color: #335077;
     font-family: IBM Plex Sans;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     font-weight: 500;
     letter-spacing: 0em;
 }
@@ -537,13 +537,6 @@ footer a{
     left: 50%;
     transition: all 0.25s;
     transform: translateX(-50%);
-}
-
-.naga:hover{
-    color: #fff;
-    border-radius: 1rem;
-    padding: 1rem;
-    background-color: #2A4365;
 }
 
 /* Animations */
